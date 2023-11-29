@@ -1,2 +1,2 @@
-# qa_guru_homework_7
+
 qa_guru_homework_7
